@@ -2,6 +2,7 @@
 
 READMY
 All rules must be created in "Parsing Rules" folder.
+UI Created on scene "Main"
 
 Parsing rules syntaxis:
 1) Use "&" like a and. This base iteration.
